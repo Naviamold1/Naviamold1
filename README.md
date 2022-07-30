@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/naviamold"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/naviamold" /></a></p><br><br>
+<p><a href="https://ko-fi.com/naviamold"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/naviamold" /></a></p><br><br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naviamold1&show_icons=true&locale=en" alt="naviamold1" /></p>
